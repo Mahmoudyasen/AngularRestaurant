@@ -37,6 +37,7 @@ The entire project is contained in a single HTML file with:
     AngularJS application in <script>
 
 Installation & Usage
+
     1-Copy the HTML code below into a file named index.html
     2-run npm install -g http-server in the terminal
     3-run http-server
