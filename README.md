@@ -1,6 +1,5 @@
 Restaurant Menu - AngularJS Project
 
-https://screenshot.png
 
 This project is a modern, responsive restaurant menu application built with AngularJS. It showcases core AngularJS concepts while providing a visually appealing user interface perfect for a restaurant website.
 Features
